@@ -53,7 +53,7 @@ const App: React.FC = () => {
         <div className="max-w-6xl mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center">
             <img 
-              src="https://udlrtmzb.gensparkspace.com/" 
+              src="/chura-smile-logo.png"
               alt="Chura Smile Project" 
               className="h-12 md:h-16 w-auto object-contain"
             />
