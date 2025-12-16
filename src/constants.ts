@@ -2,7 +2,7 @@ import type { ScheduleItem, Partner } from './types';
 
 export const FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfaFUVAOurdiIW_3_X7Ew5UHeSRx7j10F0EuM9dlS_PJzM44Q/viewform";
 
-export const PROJECT_DATE = "2026年3月14日";
+export const PROJECT_DATE = "2026年3月21日";
 
 export const SCHEDULE: ScheduleItem[] = [
   { time: "10:00頃", activity: "出発", description: "ご自宅までお迎えにあがります（11時に現地到着できるよう調整します）" },
