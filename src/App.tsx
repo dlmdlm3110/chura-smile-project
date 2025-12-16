@@ -267,7 +267,7 @@ const App: React.FC = () => {
             <p className="text-gray-500 mb-4 font-bold">開催日</p>
             <div className="text-3xl font-black text-slate-800 bg-gray-100 rounded-lg py-4 border-2 border-dashed border-gray-300">
               <span className="block text-sm text-gray-500 font-normal">2026</span>
-              3/14
+              3/21
             </div>
           </motion.div>
 
